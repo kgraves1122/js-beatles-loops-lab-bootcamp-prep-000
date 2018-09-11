@@ -30,6 +30,6 @@ function iLoveTheBeatles (num) {
   do {
     emp = [...emp, "I love the Beatles!"];
     incrementally(); }
-    while (num < 15)k
+    while (num < 15)
   return emp;
 }
